@@ -34,6 +34,10 @@ Codes for all the methods have been written in the de_duplication.ipynb file
 
 ## Answer 8 
 
+The size chart after deduplication can be found at data_sources.xlsx.
+
+Note:- Please note that it was taking too much time on the server to run the code for deduplication for the downloaded data since it was too big, hence we ran the code for deduplication on scraped data only.
+
 ## CONTRIBUTION
 * Hirva Patel - Collected data by downloading and scraping, Wrote and ran codes for de-duplication, and cleaning.
 * Khushal Ramani -  Collected data by downloading and scraping, Wrote and ran codes for cleaning.
