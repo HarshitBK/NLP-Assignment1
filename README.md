@@ -4,7 +4,7 @@
 All the data can be viewed on the server in the Punjabi_nlp_team4 folder. The downloaded data is in the "Downloaded Data" folder, and Scraped data is in the "Scraped Data" folder.
 
 ## Answer 2
-data_sources.xlxs - corresponds to the table of downloaded and scraped data sources along with their sizes in GBs.
+data_sources.xlsx - corresponds to the table of downloaded and scraped data sources along with their sizes in GBs.
 
 ## Answer 3
 The datasets on the server are in .txt format.
