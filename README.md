@@ -6,8 +6,15 @@ All the data can be viewed on the server in the Punjabi_nlp_team4 folder. The do
 ## Answer 2
 data_sources.xlxs - corresponds to the table of downloaded and scraped data sources along with their sizes in GBs.
 
+## Answer 3
+The datasets on the server are in .txt format.
+
 ## Answer 4
 Punjabi_Bad_Words_list.txt is the list of Punjabi bad words used for cleaning
+
+## Answer 5
+The data_cleaner.py is the code for removing bad words, pornographic content, hate and abuse. We have made use of the "Punjabi_Bad_Words_list.txt".
+data_cleaner2.py is an altenrative code used specifically for the scraped data which also removes some urdu words along with the Punjabi bad words, because a lot of our scraped data contained urdu text.
 
 ## Answer 6
 Cleaned_Downloaded_Data.csv - corresponds to the table of cleaned downloaded data
