@@ -21,4 +21,13 @@ Cleaned_Downloaded_Data.csv - corresponds to the table of cleaned downloaded dat
 
 Cleaned_Scraped_Data.csv - corresponds to the table of cleaned scraped data
 
-## Answer 6
+## Answer 8
+Here are brief descriptions of the deduplication methods:
+
+**MinHash Jaccard Similarity**: This method estimates the similarity between two sets by hashing and comparing their elements, efficiently approximating Jaccard similarity for large datasets.
+  
+**Cosine Similarity**: It measures the angle between two vectors (representing documents) in a high-dimensional space, identifying duplicates based on how close their vectors are to each other.
+
+**Levenshtein Distance**: Also known as edit distance, this method counts the minimum number of single-character edits (insertions, deletions, or substitutions) needed to change one string into another, identifying near-duplicate text.
+
+**Fingerprinting**: A hashing-based technique that converts documents into fixed-size "fingerprints," allowing quick detection of identical or nearly identical text fragments.
