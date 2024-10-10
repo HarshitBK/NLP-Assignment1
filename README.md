@@ -40,5 +40,6 @@ Codes for all the methods have been written in the de_duplication.ipynb file
 * Harshi Chandrafari - Collected data by downloading and scraping, Wrote and ran codes for de-duplication.
 * Rushi Glasswala - Collected data by downloading and scraping, Wrote and ran codes for cleaning.
 * Harshit Kothari - Collected data by downloading and scraping, Wrote and ran codes for de-duplication.
+
   Note - everyone contributed individually to the tables
 
