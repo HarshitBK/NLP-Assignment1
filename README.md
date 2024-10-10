@@ -17,9 +17,7 @@ Punjabi_Bad_Words_list.txt is the list of Punjabi bad words used for cleaning
 "data_cleaner2.py" is an alternative code used specifically for the scraped data, which also removes some Urdu words along with the Punjabi bad words because a lot of our scraped data contained Urdu text.
 
 ## Answer 6
-Cleaned_Downloaded_Data.csv - corresponds to the table of cleaned downloaded data
-
-Cleaned_Scraped_Data.csv - corresponds to the table of cleaned scraped data
+data_sources.xlsx contains the table for cleaned data.
 
 ## Answer 7
 Brief descriptions of the deduplication methods used:
