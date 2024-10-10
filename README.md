@@ -35,7 +35,7 @@ Codes for all the methods have been written in the de_duplication.ipynb file
 ## Answer 8 
 
 ## CONTRIBUTION
-* Hirva Patel - Collected data by downloading and scraping, Wrote and ran codes for de-duplication.
+* Hirva Patel - Collected data by downloading and scraping, Wrote and ran codes for de-duplication, and cleaning.
 * Khushal Ramani -  Collected data by downloading and scraping, Wrote and ran codes for cleaning.
 * Harshi Chandrafari - Collected data by downloading and scraping, Wrote and ran codes for de-duplication.
 * Rushi Glasswala - Collected data by downloading and scraping, Wrote and ran codes for cleaning.
